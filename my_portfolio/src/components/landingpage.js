@@ -19,27 +19,27 @@ class Landing extends Component {
 
               <hr/>
 
-              <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express| mongoDB</p>
+              <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | mongoDB</p>
 
               <div className="social-links">
                 {/* LinkedIn */}
-                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://www.linkedin.com/in/xinru-chen-98208b122/" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-linkedin-square" aria-hidden="true" />
                 </a>
 
                 {/* Github */}
-                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+                <a href="https://github.com/TonyChen0724" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-github-square" aria-hidden="true" />
                 </a>
 
-                {/* Freecodecamp */}
-                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                  <i className="fa fa-free-code-camp" aria-hidden="true" />
+                {/* CodeAbbey */}
+                <a href="https://www.codeabbey.com/index/user_profile" rel="noopener noreferrer" target="_blank">
+                  <i className="fa fa-bath" aria-hidden="true" />
                 </a>
 
                 {/* Youtube */}
-                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-                  <i className="fa fa-youtube-square" aria-hidden="true" />
+                <a href="https://leetcode.com/watchyourback/" rel="noopener noreferrer" target="_blank">
+                  <i className="fa fa-coffee" aria-hidden="true" />
                 </a>
 
 

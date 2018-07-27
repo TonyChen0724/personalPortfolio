@@ -42,10 +42,10 @@ class Resume extends Component {
               startYear={2016}
               endYear={2018}
               schoolName="University of Otago"
-              schoolDescription="University located in Dunedin"
+              schoolDescription="The University of Otago (Māori: Te Whare Wānanga o Otāgo) is a collegiate university located in Dunedin, Otago, New Zealand. It scores highly for average research quality, and in 2006[needs update] was second in New Zealand only to the University of Auckland in the number of A-rated academic researchers it employs.[3] In the past it has topped the New Zealand Performance Based Research Fund evaluation."
             />
 
-            /* this can be copied if need expanding*/
+
             <hr style={{borderTop: '3px solid #e22947'}} />
 
             <h2>Experience</h2>
